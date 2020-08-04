@@ -6,7 +6,7 @@ Full-Stack Developer.
 
 Hello! 👋  
 
-I'm a systems engineering student at UFMG. I'm also a full-stack developer that loves technology and web development. I'm currently studying NodeJS, ReactJS, React Native and TypeScript. If you want to see more about my job, check out my repositories.     
+I'm a systems engineering student at UFMG. I'm also a Full-Stack Developer that loves technology and web development. I'm currently studying NodeJS, ReactJS, React Native and TypeScript. If you want to see more about my job, check out my repositories.     
 
 
 “Talk is cheap. Show me the code.”
