@@ -1,16 +1,13 @@
-### Hi there 👋
+# Luiz Felipe 
+Full-Stack Developer.
 
-<!--
-**lutilipe/lutilipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-Luiz%20Felipe-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/luiz-felipe-de-sousa-faria-8a0ba91a8/)](https://www.linkedin.com/in/luiz-felipe-de-sousa-faria-8a0ba91a8/) 
+[![Gmail Badge](https://img.shields.io/badge/-lutilipe02@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lutilipe02@hotmail.com)](mailto:lutilipe02@hotmail.com)
 
-Here are some ideas to get you started:
+Hello! 👋  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  I'm a system engineering student at UFMG. I'm also a full-stack developer that loves technology and studying web development. If you want to see more about my job, check out my repositories.     
+
+
+“Talk is cheap. Show me the code.”
+― Linus Torvalds
