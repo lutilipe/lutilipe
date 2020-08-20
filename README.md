@@ -1,3 +1,8 @@
+<img src="https://rustacean.net/assets/cuddlyferris.png" 
+  width="150px"
+  align="right"
+/>
+
 # Luiz Felipe 
 Full-Stack Developer.
 
@@ -13,6 +18,4 @@ I'm a systems engineering student at UFMG. I'm also a Full-Stack Developer that 
 “Talk is cheap. Show me the code.”
 ― Linus Torvalds  
 
-<img src="https://rustacean.net/assets/cuddlyferris.png" 
-  width="150px"
-/>
+
