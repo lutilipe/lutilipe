@@ -1,5 +1,5 @@
 <img src="https://rustacean.net/assets/cuddlyferris.png" 
-  width="150px"
+  width="100px"
   align="right"
 />  
 # Luiz Felipe 
