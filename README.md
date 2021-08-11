@@ -7,7 +7,7 @@ Full-Stack Developer.
 
 Hello! 👋  
 
-I'm  a Full-Stack Developer that loves technology and web development. I'm currently studying NodeJS, GO, Typescript. If you want to see more about my job, check out my repositories.     
+I'm  a Full-Stack Developer that loves technology and web development. I'm currently studying NodeJS, Kotlin and Typescript. If you want to see more about my job, check out my repositories.     
 
 
 “Talk is cheap. Show me the code.”
