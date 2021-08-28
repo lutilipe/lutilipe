@@ -1,9 +1,8 @@
-# Luiz Felipe  
+# Luiz Felipe de Sousa Faria
 Full-Stack Developer. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Luiz%20Felipe-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/luiz-felipe-de-sousa-faria-8a0ba91a8/)](https://www.linkedin.com/in/luiz-felipe-de-sousa-faria-8a0ba91a8/) 
 [![Gmail Badge](https://img.shields.io/badge/-lutilipe02@hotmail.com-d44638?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lutilipe02@hotmail.com)](mailto:lutilipe02@hotmail.com)  
-
 
 Hello! 👋  
 
