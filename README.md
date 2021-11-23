@@ -1,7 +1,7 @@
 # Luiz Felipe de Sousa Faria
 
-[![Linkedin Badge](https://img.shields.io/badge/-Luiz%20Felipe-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/luiz-felipe-de-sousa-faria-8a0ba91a8/)](https://www.linkedin.com/in/luiz-felipe-de-sousa-faria-8a0ba91a8/) 
-[![Gmail Badge](https://img.shields.io/badge/-lutilipe02@hotmail.com-d44638?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lutilipe02@hotmail.com)](mailto:lutilipe02@hotmail.com)  
+<a href="https://www.linkedin.com/in/luiz-felipe-de-sousa-faria-8a0ba91a8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href="mailto:lutilipe02@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 
 Hello! 👋  
 
@@ -10,4 +10,3 @@ I'm  a Full-Stack Developer that loves technology and web development. I'm curre
 
 “Talk is cheap. Show me the code.”
 ― Linus Torvalds  
-
