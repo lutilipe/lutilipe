@@ -1,7 +1,7 @@
 # Luiz Felipe de Sousa Faria
 
-<a href="https://www.linkedin.com/in/luiz-felipe-de-sousa-faria-8a0ba91a8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-<a href="mailto:lutilipe02@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
+<a href="https://www.linkedin.com/in/luiz-felipe-de-sousa-faria-8a0ba91a8/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href="mailto:lutilipe02@hotmail.com" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 
 Hello! 👋  
 
