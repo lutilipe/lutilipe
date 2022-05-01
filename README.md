@@ -6,7 +6,7 @@
 
 Hello! 👋  
 
-I'm  a Full-Stack Developer that loves technology and web development. I'm currently studying NodeJS, Go and Docker. If you want to see more about my job, check out my repositories.     
+I'm  a Full-Stack Developer that loves technology and web development. If you want to see more about my job, check out my repositories.     
 
 
 “Talk is cheap. Show me the code.”
