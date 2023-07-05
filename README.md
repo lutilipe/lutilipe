@@ -6,7 +6,7 @@
 
 Hello! 👋  
 
-I'm a Software Engineer that loves technology and web development. If you want to see more about my job, check out my repositories.     
+I'm a Software Engineer. If you want to see more about my job, check out my repositories.     
 
 
 “Talk is cheap. Show me the code.”
